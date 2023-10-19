@@ -1,2 +1,2 @@
 # ascii
-ASCII image gen from JPG files using Python
+ASCII image render from JPG files using Python
